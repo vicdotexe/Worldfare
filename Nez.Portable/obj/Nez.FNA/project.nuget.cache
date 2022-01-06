@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVuHsrdh2ZpMjEIMCx1W5sxoPbbghkYXlCcDEEUQgOk1F9dVR3qaY6WF+kFq0WMKZCgGPovJexkbgovzxiLoEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Master\\Development\\GameDev\\Solutions\\Nez-master-winter21\\Nez.Portable\\Nez.FNA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicdo\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

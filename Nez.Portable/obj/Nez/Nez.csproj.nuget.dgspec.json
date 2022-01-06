@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Master\\Development\\GameDev\\Solutions\\Worldfare\\Nez.Portable\\Nez.csproj": {}
+  },
+  "projects": {
+    "C:\\Master\\Development\\GameDev\\Solutions\\Worldfare\\Nez.Portable\\Nez.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Master\\Development\\GameDev\\Solutions\\Worldfare\\Nez.Portable\\Nez.csproj",
+        "projectName": "Nez",
+        "projectPath": "C:\\Master\\Development\\GameDev\\Solutions\\Worldfare\\Nez.Portable\\Nez.csproj",
+        "packagesPath": "C:\\Users\\vicdo\\.nuget\\packages\\",
+        "outputPath": "C:\\Master\\Development\\GameDev\\Solutions\\Worldfare\\Nez.Portable\\obj\\Nez\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vicdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "dependencies": {
+            "MonoGame.Framework.Portable": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.7.1.189, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

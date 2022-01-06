@@ -1,0 +1,11 @@
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\bin\Debug\FNA\FNA.dll.config
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\bin\Debug\FNA\Nez.dll
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\bin\Debug\FNA\Nez.pdb
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\bin\Debug\FNA\System.Drawing.Common.dll
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\bin\Debug\FNA\FNA.dll
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\bin\Debug\FNA\FNA.pdb
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\obj\Nez.FNA\Debug\Nez.FNA.csprojAssemblyReference.cache
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\obj\Nez.FNA\Debug\Nez.FNA.csproj.CoreCompileInputs.cache
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\obj\Nez.FNA\Debug\Nez.FNA.csproj.CopyComplete
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\obj\Nez.FNA\Debug\Nez.dll
+C:\Master\Development\GameDev\Solutions\Nez-master-winter21\Nez.Portable\obj\Nez.FNA\Debug\Nez.pdb

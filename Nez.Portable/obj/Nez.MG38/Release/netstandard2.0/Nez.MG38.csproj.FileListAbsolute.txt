@@ -1,0 +1,10 @@
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\bin\Release\netstandard2.0\Nez.deps.json
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\bin\Release\netstandard2.0\Nez.dll
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\bin\Release\netstandard2.0\Nez.pdb
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\obj\Nez.MG38\Release\netstandard2.0\Nez.MG38.csproj.AssemblyReference.cache
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\obj\Nez.MG38\Release\netstandard2.0\Nez.MG38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\obj\Nez.MG38\Release\netstandard2.0\Nez.MG38.AssemblyInfoInputs.cache
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\obj\Nez.MG38\Release\netstandard2.0\Nez.MG38.AssemblyInfo.cs
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\obj\Nez.MG38\Release\netstandard2.0\Nez.MG38.csproj.CoreCompileInputs.cache
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\obj\Nez.MG38\Release\netstandard2.0\Nez.dll
+C:\Master\Development\GameDev\Solutions\Worldfare\Nez.Portable\obj\Nez.MG38\Release\netstandard2.0\Nez.pdb
